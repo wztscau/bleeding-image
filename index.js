@@ -3,7 +3,7 @@
  *  Written by https://github.com/wztscau
  */
 !(function (window, factory) {
-    if (!(window instanceof Window)) {
+    if (!this.window) {
       throw Error('Cannot run in non-window environment.')
     }
     if (typeof module === 'object' && module.exports) {
