@@ -1,0 +1,24 @@
+{
+  "name": "bleeding-image",
+  "version": "1.0.0",
+  "description": "An adaptation tool for full-screen pictures with bleeding area on the mobile terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wztscau/bleeding-image.git"
+  },
+  "keywords": [
+    "bleeding",
+    "image",
+    "mobile"
+  ],
+  "author": "wztscau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wztscau/bleeding-image/issues"
+  },
+  "homepage": "https://github.com/wztscau/bleeding-image#readme"
+}
