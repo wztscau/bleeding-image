@@ -41,6 +41,7 @@
             Object.assign(img.style, {
                 position: 'absolute',
                 width: '100vw',
+                height: 'auto',
                 left: 0,
                 top: 0
             })
